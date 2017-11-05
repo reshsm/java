@@ -1,0 +1,105 @@
+
+#Custnav{
+font-size: 1.2rem;
+background-color: #AC0933; 
+border-bottom-style: inset;
+}
+
+.navbar-light .navbar-nav .nav-link{
+	color :white;
+}
+
+.navbar-light .navbar-brand, .navbar-light .navbar-toggler{
+	color: white;
+
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover
+{
+  color:#F7DE8C;
+}
+
+.navbar-toggleable-md .navbar-nav .nav-link {
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
+.navbar-brand{
+	margin-right: 2rem;
+	color:#F7DE8C;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #ac0933;
+}
+
+.dropdown-menu{
+	background-color:#F7DE8C ;
+	border-color: #ac0933;
+}
+
+.carousel-item img 
+{
+	height: 80%;
+	width: 100%;
+}
+
+#Danger{
+	border-color: #d9534f;
+}
+#CHdanger{
+  color: #d9534f;
+}
+
+#Success
+{
+	border-color: #5cb85c;
+}
+#CHsuccess{
+  color: #5cb85c;
+}
+
+#Warning{
+	border-color: #f0ad4e;
+}
+#CHwarning{
+  color: #f0ad4e;
+}
+
+#collapseOne{
+		border-color: #AC0933;  
+}
+#Fform{
+	color: #AC0933;
+
+}
+
+#submitbtn{
+	color: #AC0933;
+	border-color: #AC0933;
+}
+
+#submitbtn:hover{
+	color: white;
+	background-color: #AC0933;
+	border-color: #AC0933;
+}
+
+#footer{
+
+	background-color: black; 
+	border-top-style: inset;
+	color: white;
+}
+
+#follow
+{
+	width: 3em;
+	height: 3em;
+}
+
+.copyright-section{
+	text-align: center;
+}
